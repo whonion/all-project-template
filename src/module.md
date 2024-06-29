@@ -1,0 +1,1 @@
+**This directory is used as a rule for placing modules of the main program**
